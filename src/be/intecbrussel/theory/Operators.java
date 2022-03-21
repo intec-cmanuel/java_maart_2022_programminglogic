@@ -1,4 +1,4 @@
-package be.intecbrussel;
+package be.intecbrussel.theory;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package be.intecbrussel;
+package be.intecbrussel.theory;
 
 public class Scope {
     public static void main (String[] args) {
@@ -13,8 +13,12 @@ public class Scope {
             System.out.println(number1);
         }
 
-        //System.out.println(number2);
 
+        if (true) {
+//            System.out.println(number2);
+        }
+
+//        System.out.println(number2);
     }
 }
 

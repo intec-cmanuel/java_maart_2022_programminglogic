@@ -1,4 +1,4 @@
-package be.intecbrussel;
+package be.intecbrussel.theory;
 
 public class Conditionals {
     public static void main(String[] args) {
